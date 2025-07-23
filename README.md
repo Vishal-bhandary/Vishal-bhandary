@@ -18,7 +18,7 @@ My focus is on continuous learning, collaborating with diverse teams, and contri
 
 ## 📄 Resume
 
-📌 [View My Resume]([https://drive.google.com/file/d/1eSAMPLE_RESUME_LINK/view?usp=sharing](https://drive.google.com/file/d/1sQjesQk-pOPyWStlVEsHZsAMXOkhs3MM/view?usp=drive_link))
+📌 [View My Resume]((https://drive.google.com/file/d/1sQjesQk-pOPyWStlVEsHZsAMXOkhs3MM/view?usp=drive_link))
 
 ---
 
