@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Vishal Aryav Bhandary
 
-🎓 Recently graduated with a B.E. in Artificial Intelligence & Machine Learning
-📍 Based in Mangaluru, India
-💡 Passionate about data, automation, and AI-driven problem solving
-📬 Reach me at: [vishalswasthi@gmail.com](mailto:vishalswasthi@gmail.com)
+🎓 Recently graduated with a B.E. in Artificial Intelligence & Machine Learning  
+📍 Based in Mangaluru, India  
+💡 Passionate about data, automation, and AI-driven problem solving  
+📬 Reach me at: [vishalswasthi@gmail.com](mailto:vishalswasthi@gmail.com)  
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-aryav-bhandary)
 
 ---
