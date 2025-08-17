@@ -20,7 +20,7 @@ I bring **a structured, goal-oriented approach to projects**, combined with a pa
 
 ## 📄 Resume
 
-📌 [View My Resume](https://drive.google.com/file/d/1sQjesQk-pOPyWStlVEsHZsAMXOkhs3MM/view?usp=drive_link)
+📌 [View My Resume](https://drive.google.com/file/d/1XKQXfvta3MIBi-O9ict789oBcE0PBrur/view?usp=drive_link)
 
 ---
 
